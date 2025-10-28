@@ -36,11 +36,3 @@ If you are logged in as Manager
 + Node.js and __[Express](https://expressjs.com/)__ in the Backend
 + __[React-Redux](https://github.com/reactjs/react-redux/)__ for State Management
 + __[Recharts](http://recharts.org/)__ for charts
-
-
-
-
-
-
-
-
